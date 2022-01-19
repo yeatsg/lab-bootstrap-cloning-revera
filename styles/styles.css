@@ -23,3 +23,8 @@ footer {
 .row{
     vertical-align: baseline;
 }
+
+.hthumb > img {
+    height: 140px;
+    width: 212px;
+}
