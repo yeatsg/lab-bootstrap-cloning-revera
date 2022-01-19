@@ -1,0 +1,25 @@
+body {
+    margin: auto 0px auto 0px;
+    background: #fff;
+    font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+    height: 1028px;
+}
+
+#red-box {
+    background-color: #ed564b;
+    border-top: 5px solid #f96b61;
+    border-bottom: 5px solid #f96b61;
+    padding: 40px 0px;
+}
+
+footer {
+    background-color: #aaa;
+}
+
+#slideshow {
+    background-color: black;
+}
+
+.row{
+    vertical-align: baseline;
+}
